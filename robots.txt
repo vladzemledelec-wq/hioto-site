@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hioto.id/sitemap.xml
+Sitemap: https://vladzemledelec-wq.github.io/hioto-site/sitemap.xml
