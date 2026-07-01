@@ -1,0 +1,9 @@
+.DS_Store
+.claude/
+*.local.json
+.env
+.env.*
+_local/
+admin.html
+Catalog-compressed (1).pdf
+media/catalog-ref/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hioto.id/sitemap.xml
